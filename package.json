@@ -1,0 +1,19 @@
+{
+  "name": "customer-data-profiling-backend-task",
+  "version": "1.0.0",
+  "description": "Real estate lead profiling & management backend (Node + Express)",
+  "main": "src/app.js",
+  "scripts": {
+    "start": "node src/app.js",
+    "start:dev": "nodemon src/app.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.21.1"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.7"
+  }
+}
